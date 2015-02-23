@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Healthy Cars</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_desc">View best cars suitable for your needs</string>
+    <string name="browse_button">Start Browsing</string>
+    <string name="title_activity_filter">FilterActivity</string>
+    <string-array name="make_array">
+        <item>Select Make</item>
+        <item>Acura</item>
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Buick</item>
+        <item>Cadillac</item>
+        <item>Chervolet</item>
+        <item>Chrysler</item>
+        <item>Daewod</item>
+        <item>Dodge</item>
+        <item>Ford</item>
+        <item>GMC</item>
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>Infinity</item>
+        <item>Isuzu</item>
+        <item>Jaguar</item>
+        <item>Jeep</item>
+        <item>Kia</item>
+        <item>Land Rover</item>
+        <item>Lexus</item>
+        <item>Lincoln</item>
+        <item>Mazda</item>
+        <item>Mercedes - Benz</item>
+        <item>Nissan</item>
+        <item>Oldsmobile</item>
+        <item>Pontiac</item>
+        <item>Saab</item>
+        <item>Saturn</item>
+        <item>Subaru</item>
+        <item>Toyota Suzuki</item>
+        <item>Toyota</item>
+        <item>Volkswagen</item>
+        <item>Volvo</item>
+    </string-array>
+    <string-array name="class_array">
+        <item>Select Class Type</item>
+        <item>4WD/4X4 - Four-wheel drive</item>
+        <item>AWD - All-wheel drive</item>
+        <item>CNG = Compressed natural gas</item>
+        <item>FFV = Flexible-fuel vehicle</item>
+        <item>NGV = Natural gas vehicle</item>
+    </string-array>
+    <string-array name="fuel_array">
+        <item>Select Fuel Type</item>
+        <item>X = Regular gasoline</item>
+        <item>Z = Premium gasoline</item>
+        <item>D = Diesel</item>
+        <item>E = Ethanol (E85)</item>
+        <item>N = Natural Gas</item>
+    </string-array>
+    <string-array name="transmission_array">
+        <item>Select Transmission Type</item>
+        <item>A = Automatic</item>
+        <item>AM = Automated manual</item>
+        <item>AS = Automatic with select shift</item>
+        <item>AV = Continuously variable</item>
+        <item>M = Manual</item>
+        <item>3 – 10 = Number of gears</item>
+    </string-array>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>
